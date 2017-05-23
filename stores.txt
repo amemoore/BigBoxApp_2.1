@@ -1,0 +1,5 @@
+1	Mason Big Box	5711 Fields Ertel Rd.	Mason	OH	45249	001	00011	25000.0
+2	Downtown Big Box	9330 Main St.	Cincinnati	OH	45202	001	00255	32788.0
+3	Goshen Big Box	6777 Goshen Rd.	Goshen	OH	45122	001	00172	18590.0
+4	Bridgetown Big Box	3888 Race Rd.	Cincinnati	OH	45211	001	00075	21422.0
+5	Louisville Big Box	1111 Washington St.	Louisville	KY	40206	111	00011	27433.0
